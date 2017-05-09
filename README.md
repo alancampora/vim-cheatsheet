@@ -27,11 +27,10 @@ Move to the opening/closing brackent and press %
 ```javascript
 function(){
     function superFunctio`(){
-        making lot of stuf
-        making lot of stuf
-        making lot of stuf
-        making lot of stuf
-        making lot of stuf
+        making lot of stuff
+        making lot of stuff
+        making lot of stuff
+        making lot of stuff
     }
 }
 ```
