@@ -22,7 +22,7 @@ function(){
 ## Movements 
 
 ### Between {} [] () "" and so on
-A great way of checking to know the closing bracket of an openinig is to use the % 
+A great way to know the closing bracket of an openinig one it's to use the % 
 
 Move to the opening/closing brackent and press %
 
