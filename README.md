@@ -11,7 +11,7 @@ function(){
 }
 ```
 
-    ci{
+press: ci{
 
 ```javascript
 function(){
