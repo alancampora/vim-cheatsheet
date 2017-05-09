@@ -3,7 +3,7 @@ My own examples to recall useful vim commands
 
 ## Inner blocks 
 
-Replace content between brackets: move cursor to content and then press `ci{` or `ci}`
+Replace content between brackets: move cursor to content and then press `ci{` or `ci}` (saying to vim: "change inner content of curly brackets")
 
 ```javascript
 function(){
